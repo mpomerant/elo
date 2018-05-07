@@ -1,6 +1,6 @@
 {
   "name": "elo-utils",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "ELO utilities",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,10 @@
   "repository": "https://github.com/mpomerant/elo.git",
   "author": "Mark Pomerant <mpomerant@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "chai": "^4.1.2",
     "istanbul": "^0.4.5",
-    "minimist": "^1.2.0",
     "mocha": "^5.1.1",
     "nyc": "^11.7.1"
   }
