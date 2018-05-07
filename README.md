@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mpomerant/elo.svg?branch=master)](https://travis-ci.org/mpomerant/elo)
+[![Build Status](https://travis-ci.org/mpomerant/elo.svg?branch=master)](https://travis-ci.org/mpomerant/elo)  [![Coverage Status](https://coveralls.io/repos/github/mpomerant/elo/badge.svg?branch=master)](https://coveralls.io/github/mpomerant/elo?branch=master)
 
 # elo-utils
 Used to provide some basic utilities to support the calculation of [ELO Ratings](https://en.wikipedia.org/wiki/Elo_rating_system).
