@@ -1,3 +1,10 @@
+<a name="0.3.3"></a>
+## <small>0.3.3 (2018-05-07)</small>
+
+* add npm provider to travis deploy config ([96bad49](https://github.com/mpomerant/elo/commit/96bad49))
+
+
+
 <a name="0.3.2"></a>
 ## <small>0.3.2 (2018-05-07)</small>
 
