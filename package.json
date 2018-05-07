@@ -1,19 +1,33 @@
 {
   "name": "elo-utils",
-  "version": "0.1.0",
   "description": "ELO utilities",
+  "homepage": "https://github.com/mpomerant/elo#readme",
+  "version": "0.2.0",
   "main": "index.js",
-  "scripts": {
-    "test": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --"
+  "author": {
+    "email": "mpomerant@gmail.com",
+    "name": "Mark Pomerant"
   },
-  "repository": "https://github.com/mpomerant/elo.git",
-  "author": "Mark Pomerant <mpomerant@gmail.com>",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpomerant/elo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpomerant/elo/issues"
+  },
   "dependencies": {},
   "devDependencies": {
+    "bumped": "^0.10.9",
     "chai": "^4.1.2",
     "istanbul": "^0.4.5",
     "mocha": "^5.1.1",
     "nyc": "^11.7.1"
-  }
+  },
+  "scripts": {
+    "bump-major": "bumped release major",
+    "bump-minor": "bumped release minor",
+    "bump-patch": "bumped release patch",
+    "test": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha --"
+  },
+  "license": "MIT"
 }
