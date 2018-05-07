@@ -1,3 +1,13 @@
+<a name="0.4.0"></a>
+## 0.4.0 (2018-05-07)
+
+* add coveralls config ([1231975](https://github.com/mpomerant/elo/commit/1231975))
+* fix up coveralls config ([89a359c](https://github.com/mpomerant/elo/commit/89a359c))
+* one last try at coveralls config ([2c5a772](https://github.com/mpomerant/elo/commit/2c5a772))
+* reorganize dependencies moving bumped-terminal into devDependencies ([daac82f](https://github.com/mpomerant/elo/commit/daac82f))
+
+
+
 <a name="0.3.4"></a>
 ## <small>0.3.4 (2018-05-07)</small>
 
