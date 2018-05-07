@@ -16,7 +16,7 @@
     "url": "https://github.com/mpomerant/elo/issues"
   },
   "dependencies": {
-    "bumped-terminal": "^0.7.3"
+
   },
   "devDependencies": {
     "bumped": "^0.10.9",
@@ -25,7 +25,8 @@
     "istanbul": "^0.4.5",
     "mocha": "^5.1.1",
     "mocha-lcov-reporter": "^1.3.0",
-    "nyc": "^11.7.1"
+    "nyc": "^11.7.1",
+    "bumped-terminal": "^0.7.3"
   },
   "scripts": {
     "bump-major": "bumped release major",
