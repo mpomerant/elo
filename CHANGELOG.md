@@ -1,3 +1,10 @@
+<a name="0.3.4"></a>
+## <small>0.3.4 (2018-05-07)</small>
+
+* add email to travis config ([1ae9d2a](https://github.com/mpomerant/elo/commit/1ae9d2a))
+
+
+
 <a name="0.3.3"></a>
 ## <small>0.3.3 (2018-05-07)</small>
 
