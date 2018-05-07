@@ -24,13 +24,14 @@
     "coveralls": "^3.0.1",
     "istanbul": "^0.4.5",
     "mocha": "^5.1.1",
+    "mocha-lcov-reporter": "^1.3.0",
     "nyc": "^11.7.1"
   },
   "scripts": {
     "bump-major": "bumped release major",
     "bump-minor": "bumped release minor",
     "bump-patch": "bumped release patch",
-    "test": "mocha && istanbul report text-summary lcov"
+    "test": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
   },
   "license": "MIT"
 }
