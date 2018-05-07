@@ -1,3 +1,10 @@
+<a name="0.3.2"></a>
+## <small>0.3.2 (2018-05-07)</small>
+
+* add support for bumped ([c432f98](https://github.com/mpomerant/elo/commit/c432f98))
+
+
+
 <a name="0.3.1"></a>
 ## <small>0.3.1 (2018-05-07)</small>
 
