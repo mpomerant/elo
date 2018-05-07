@@ -2,7 +2,7 @@
   "name": "elo-utils",
   "description": "ELO utilities",
   "homepage": "https://github.com/mpomerant/elo#readme",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "main": "index.js",
   "author": {
     "email": "mpomerant@gmail.com",
@@ -15,7 +15,9 @@
   "bugs": {
     "url": "https://github.com/mpomerant/elo/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bumped-terminal": "^0.7.3"
+  },
   "devDependencies": {
     "bumped": "^0.10.9",
     "chai": "^4.1.2",
