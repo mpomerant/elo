@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mpomerant/elo.svg?branch=master)](https://travis-ci.org/mpomerant/elo)
+
 # elo-utils
 Used to provide some basic utilities to support the calculation of [ELO Ratings](https://en.wikipedia.org/wiki/Elo_rating_system).
 
